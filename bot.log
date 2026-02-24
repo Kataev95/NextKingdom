@@ -1,0 +1,67 @@
+2026-02-24 02:34:41,217 - __main__ - ERROR - ❌ Фатальная ошибка: name 'profile' is not defined
+2026-02-24 02:37:54,037 - __main__ - INFO - 🎮 Запуск polling...
+2026-02-24 02:37:54,038 - __main__ - INFO - 🚀 Next Kingdom Bot запускается...
+2026-02-24 02:37:54,210 - database.database - INFO - ✅ База данных инициализирована
+2026-02-24 02:37:54,292 - database.database - INFO - ✅ Базовые достижения добавлены
+2026-02-24 02:37:54,292 - __main__ - INFO - ✅ База данных инициализирована
+2026-02-24 02:37:54,298 - __main__ - ERROR - ❌ Критическая ошибка: start_scheduler() missing 1 required positional argument: 'chat_id'
+2026-02-24 02:41:13,424 - __main__ - INFO - 🎮 Запуск polling...
+2026-02-24 02:41:13,425 - __main__ - INFO - 🚀 Next Kingdom Bot запускается...
+2026-02-24 02:41:13,454 - database.database - INFO - ✅ База данных инициализирована
+2026-02-24 02:41:13,507 - database.database - INFO - ✅ Базовые достижения добавлены
+2026-02-24 02:41:13,508 - __main__ - INFO - ✅ База данных инициализирована
+2026-02-24 02:41:13,542 - utils.scheduler - INFO - Планировщик событий инициализирован
+2026-02-24 02:41:13,543 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:41:13,546 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:41:13,552 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:41:13,553 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:41:13,554 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:41:13,555 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:41:13,562 - apscheduler.scheduler - INFO - Added job "Восстановление энергии" to job store "default"
+2026-02-24 02:41:13,563 - apscheduler.scheduler - INFO - Added job "Случайные события" to job store "default"
+2026-02-24 02:41:13,564 - apscheduler.scheduler - INFO - Added job "Ежедневный сброс" to job store "default"
+2026-02-24 02:41:13,565 - apscheduler.scheduler - INFO - Added job "Очистка событий" to job store "default"
+2026-02-24 02:41:13,567 - apscheduler.scheduler - INFO - Added job "Еженедельный сброс" to job store "default"
+2026-02-24 02:41:13,568 - apscheduler.scheduler - INFO - Added job "Статус сервера" to job store "default"
+2026-02-24 02:41:13,568 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-24 02:41:13,569 - utils.scheduler - INFO - Планировщик запущен
+2026-02-24 02:41:13,572 - utils.scheduler - INFO - Планировщик событий запущен
+2026-02-24 02:41:13,576 - __main__ - INFO - ⏰ Планировщик событий запущен
+2026-02-24 02:41:34,720 - __main__ - ERROR - Ошибка отправки приветственного сообщения: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-02-24 02:41:34,720 - __main__ - INFO - ✅ Next Kingdom Bot успешно запущен!
+2026-02-24 02:41:34,723 - aiogram.dispatcher - INFO - Start polling
+2026-02-24 02:41:55,776 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-24 02:41:55,776 - __main__ - INFO - ⏹️ Next Kingdom Bot останавливается...
+2026-02-24 02:42:13,546 - apscheduler.executors.default - INFO - Running job "Восстановление энергии (trigger: interval[0:01:00], next run at: 2026-02-24 02:43:13 MSK)" (scheduled at 2026-02-24 02:42:13.543804+03:00)
+2026-02-24 02:42:13,560 - apscheduler.executors.default - INFO - Job "Восстановление энергии (trigger: interval[0:01:00], next run at: 2026-02-24 02:43:13 MSK)" executed successfully
+2026-02-24 02:42:16,814 - __main__ - ERROR - Ошибка отправки прощального сообщения: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-02-24 02:42:16,815 - __main__ - INFO - 👋 Next Kingdom Bot остановлен
+2026-02-24 02:42:17,082 - __main__ - ERROR - ❌ Критическая ошибка: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-02-24 02:44:07,833 - __main__ - INFO - 🎮 Запуск polling...
+2026-02-24 02:44:07,833 - __main__ - INFO - 🚀 Next Kingdom Bot запускается...
+2026-02-24 02:44:07,858 - database.database - INFO - ✅ База данных инициализирована
+2026-02-24 02:44:07,914 - database.database - INFO - ✅ Базовые достижения добавлены
+2026-02-24 02:44:07,914 - __main__ - INFO - ✅ База данных инициализирована
+2026-02-24 02:44:07,923 - utils.scheduler - INFO - Планировщик событий инициализирован
+2026-02-24 02:44:07,924 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:44:07,925 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:44:07,926 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:44:07,927 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:44:07,928 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:44:07,928 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-24 02:44:07,932 - apscheduler.scheduler - INFO - Added job "Восстановление энергии" to job store "default"
+2026-02-24 02:44:07,933 - apscheduler.scheduler - INFO - Added job "Случайные события" to job store "default"
+2026-02-24 02:44:07,935 - apscheduler.scheduler - INFO - Added job "Ежедневный сброс" to job store "default"
+2026-02-24 02:44:07,939 - apscheduler.scheduler - INFO - Added job "Очистка событий" to job store "default"
+2026-02-24 02:44:07,942 - apscheduler.scheduler - INFO - Added job "Еженедельный сброс" to job store "default"
+2026-02-24 02:44:07,943 - apscheduler.scheduler - INFO - Added job "Статус сервера" to job store "default"
+2026-02-24 02:44:07,943 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-24 02:44:07,944 - utils.scheduler - INFO - Планировщик запущен
+2026-02-24 02:44:07,945 - utils.scheduler - INFO - Планировщик событий запущен
+2026-02-24 02:44:07,946 - __main__ - INFO - ⏰ Планировщик событий запущен
+2026-02-24 02:44:29,069 - __main__ - ERROR - Ошибка отправки приветственного сообщения: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-02-24 02:44:29,070 - __main__ - INFO - ✅ Next Kingdom Bot успешно запущен!
+2026-02-24 02:44:29,071 - aiogram.dispatcher - INFO - Start polling
+2026-02-24 02:44:34,586 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-24 02:44:34,586 - __main__ - INFO - ⏹️ Next Kingdom Bot останавливается...
+2026-02-24 02:44:36,073 - __main__ - INFO - 👋 Бот остановлен пользователем

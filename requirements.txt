@@ -1,0 +1,16 @@
+# Next Kingdom Bot - Requirements
+
+# Core
+aiogram==3.15.0
+python-dotenv==1.0.0
+
+# Database
+SQLAlchemy==2.0.36
+aiosqlite==0.20.0
+
+# Scheduling
+APScheduler==3.10.4
+
+# Utilities
+python-dateutil==2.9.0
+pytz==2024.1
